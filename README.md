@@ -2,8 +2,8 @@
 <h1 align="center">Hi 👋, I'm Fabrizio Farfan</h1>
 <h3 align="center">I'm a passionate android developer improving my skills everyday</h3>
 
-- 🔭 I’m currently working on [MoviesSeriesProjectPortafolio2
-](https://github.com/FabrizioFarfan/MoviesSeriesProjectPortafolio2)
+- 🔭 I’m currently working on [Appstrology
+](https://github.com/FabrizioFarfan/Appstrology)
 
 - 🌱 I’m currently learning **Jetpack Compose, building HIGH quality funtional apps with nice code practicing**
 
