@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Fabrizio Farfan</h1>
 <h3 align="center">I'm a passionate android developer improving my skills everyday</h3>
 
-- 🔭 I’m currently working on [Appstrology
+- 🔭 Last project finished [Appstrology
 ](https://github.com/FabrizioFarfan/Appstrology)
 
-- 🌱 I’m currently learning **Jetpack Compose, building HIGH quality funtional apps with nice code practicing**
+- 🌱 I’m currently learning **Website development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/FabrizioFarfan?tab=repositories](https://github.com/FabrizioFarfan?tab=repositories)
 
-- 💬 Ask me about **Android Studio with Kotlin**
+- 💬 Ask me about **Android Studio with Kotlin. Java and JavaScript(HTML and CSS)**
 
 - 📫 How to reach me **farfanfabrizio96@gmail.com**
 
