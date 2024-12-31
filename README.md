@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Fabrizio Farfan</h1>
 <h3 align="center">I'm a passionate developer improving my skills everyday</h3>
 
-- 🔭 Last project finished [Appstrology
-](https://github.com/FabrizioFarfan/Appstrology)
+- 🔭 Last project finished [Epic Tales
+](https://epictales.blue)
 
 - 🔭 NEW PROJECT COMING SOON
 
