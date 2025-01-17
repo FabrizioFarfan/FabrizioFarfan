@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/FabrizioFarfan?tab=repositories](https://github.com/FabrizioFarfan?tab=repositories)
 
-- 💬 Ask me about **Java and JavaScript(HTML and CSS)**
+- 💬 Ask me about **Development Backend with SpringBoot(Java), Frontend with React(JavaScript & Tailwind) and Mobile Development with ReactNative(JavaScript)**
 
 - 📫 How to reach me **farfanfabrizio96@gmail.com**
 
