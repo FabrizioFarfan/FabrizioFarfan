@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B5B,100:FFA633&height=200&section=header&text=Hi%20👋,%20I'm%20Fabrizio%20Farfan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer&descAlignY=58&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B5B,100:FFA633&height=200&section=header&text=Hi,%20I%27m%20Fabrizio%20Farfan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20Mobile%20Developer&descAlignY=58&descSize=18" alt="header"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B5B&center=true&vCenter=true&width=600&lines=Backend+in+Java+%C2%B7+Kotlin+%C2%B7+Spring+Boot+%E2%98%95;Native+apps+for+iOS+%2B+Android+%F0%9F%93%B1;Real-time+multiplayer+with+WebSockets+%F0%9F%8E%AE;From+hospitality+to+tech+%F0%9F%8D%BD%EF%B8%8F%E2%86%92%F0%9F%92%BB" alt="Typing SVG"/></a>
@@ -112,15 +112,6 @@ My first full-stack app: authentication, file uploads and content management.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FabrizioFarfan&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabrizioFarfan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FabrizioFarfan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
 
 ## 🌱 Currently
 
@@ -156,4 +147,3 @@ My first full-stack app: authentication, file uploads and content management.
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA633,100:FF6B5B&height=120&section=footer" alt="footer"/>
-
