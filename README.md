@@ -1,7 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B5B,100:FFA633&height=200&section=header&text=Hi,%20I%27m%20Fabrizio%20Farfan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20and%20Mobile%20Developer&descAlignY=58&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B5B,100:FFA633&height=200&section=header&text=Hi,%20I%27m%20Fabrizio%20Farfan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20of%20Eazy%20Life%20Company%20%C2%B7%20Full-Stack%20Developer&descAlignY=58&descSize=18" alt="header"/>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B5B&center=true&vCenter=true&width=600&lines=Backend+in+Java+%C2%B7+Kotlin+%C2%B7+Spring+Boot+%E2%98%95;Native+apps+for+iOS+%2B+Android+%F0%9F%93%B1;Real-time+multiplayer+with+WebSockets+%F0%9F%8E%AE;From+hospitality+to+tech+%F0%9F%8D%BD%EF%B8%8F%E2%86%92%F0%9F%92%BB" alt="Typing SVG"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B5B&center=true&vCenter=true&width=600&lines=Founder+of+Eazy+Life+Company+%F0%9F%9A%80;Websites+for+real+businesses+%F0%9F%8C%8D;Backend+in+Java+%C2%B7+Kotlin+%C2%B7+Spring+Boot+%E2%98%95;Native+apps+for+iOS+%2B+Android+%F0%9F%93%B1;Real-time+multiplayer+with+WebSockets+%F0%9F%8E%AE;Web+dashboards+with+React+%2B+TypeScript+%E2%9A%9B%EF%B8%8F" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
@@ -9,10 +9,11 @@
 </p>
 
 <p align="center">
-  <em>From hospitality to tech — now shipping real products end-to-end: APIs, web dashboards, native apps and an online game 🚀</em>
+  <em>I run <a href="https://eazylifecompany.com"><b>Eazy Life Company</b></a> — a software studio building websites for real businesses, SaaS platforms and our own apps 🚀</em>
 </p>
 
 <p align="center">
+  <a href="https://eazylifecompany.com"><img src="https://img.shields.io/badge/Eazy_Life_Company-FF6B5B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Eazy Life Company"/></a>
   <a href="https://www.linkedin.com/in/fabrizio-farfan-42b4a0256/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:farfanfabrizio96@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://eazy-fidelity.com"><img src="https://img.shields.io/badge/Eazy_Fidelity-live-22c55e?style=for-the-badge" alt="Eazy Fidelity live"/></a>
@@ -20,7 +21,42 @@
 
 ---
 
-## 🔥 What I'm building
+## 🏢 Founder · [Eazy Life Company](https://eazylifecompany.com)
+
+> *Built for life. Designed to last.*
+
+A software studio with clients in 🇩🇪 Berlin · 🇵🇱 Poland · 🇺🇸 USA · 🇮🇹 Italy. Three things we do:
+
+| 🌐 **Websites** | 💼 **SaaS for businesses** | 📱 **The Eazy apps** |
+|:---|:---|:---|
+| Custom sites for real businesses — design, build, copy & launch | Management platforms already running with real clients | Our own apps, free, to make life easier |
+
+### 🌍 Websites I've built for real clients
+
+| Client | What I did | Live |
+|:---|:---|:---:|
+| 🍝 **RIVARO** · Berlin | Cinematic site for an Italian restaurant — video hero, menus & reservations | [rivaro-ristorante.de ↗](https://rivaro-ristorante.de) |
+| 🦉 **Allevamento Alkeira** · Italy | Night-toned site for an owl & raptor breeder — a photo and the recorded call of every species | [gianfrancovilla.com ↗](https://gianfrancovilla.com) |
+
+<sub>More studio work at <a href="https://eazylifecompany.com">eazylifecompany.com</a>.</sub>
+
+### 🧩 The Eazy ecosystem
+
+**👨‍💻 Built by me**
+
+| | Product | What it is | Status |
+|:---:|:---|:---|:---:|
+| 🏋️ | **Eazy Fit** | Training app with friends & coaches | 📱 iOS + Android |
+| 🎟️ | **Eazy Fidelity** | Loyalty stamp cards for local businesses | 🟢 Live |
+| 🌶️ | **Eazy Chill** | Online party game, Mario Party style | 🛠️ In development |
+| 🍽️ | **Eazy Meal** | Weekly meal planning & smart shopping lists | 🛠️ In development |
+| 📦 | **Eazy Stock** · mobile app | Real-time inventory for small teams, now on the phone | 🔜 Starting now |
+
+**🏢 Also from the studio:** 📦 Eazy Stock (web SaaS) · 📅 Eazy Booking · 🩺 Eazy Clinic · 💰 Eazy Finance · 🎯 Eazy Habit
+
+---
+
+## 🔥 Under the hood — the projects I'm proudest of
 
 ### 🏋️ EazyFit — *training app with friends, coaches & live feed*
 > 📱 iOS + Android · 🟢 API live
@@ -143,7 +179,7 @@ My first full-stack app: authentication, file uploads and content management.
 ---
 
 <p align="center">
-  <em>"From creating memorable guest experiences to building memorable user experiences" ✨</em>
+  <em>Thanks for stopping by! ✨</em>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA633,100:FF6B5B&height=120&section=footer" alt="footer"/>
